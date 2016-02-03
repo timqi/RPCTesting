@@ -16,7 +16,7 @@
         </activity>
 
         <service
-            android:name=".serviceaidl.TimerService"
+            android:name=".service.TimerService"
             android:process=":timerprocess" />
     </application>
 
